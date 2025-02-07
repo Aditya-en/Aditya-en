@@ -1,6 +1,6 @@
 ## My Name is Aditya Sahani!
 
-- 🔭 I’m currently working on training transformer models
+- 🔭 I’m currently training transformer models
 - 🌱 I’m interested in the area of Generative AI.
 - 👯 I’m always open to meaningful collaborations.
 - ⚡ Fun fact: I like to play games (Subnautica being all time favourite) and love rocket science 🚀
