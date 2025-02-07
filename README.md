@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I like to play games (Subnautica being all time favourite) and love rocket science 🚀
 - 📫 How to reach me: Portfolio website coming soon...
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-en&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-en&&show_icons=true&theme=radical&hide_rank=false">
